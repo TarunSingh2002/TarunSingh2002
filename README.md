@@ -59,19 +59,19 @@ I'm a passionate Android developer who loves to create awesome Android applicati
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulmaurya-exe&theme=solarized-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TarunSingh2002&theme=solarized-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 
-![](https://github-readme-stats.vercel.app/api?username=rahulmaurya-exe&theme=solarized-dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=TarunSingh2002&theme=solarized-dark&hide_border=false&include_all_commits=false&count_private=false)
 <br/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=rahulmaurya-exe&theme=solarized-dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=TarunSingh2002&theme=solarized-dark&hide_border=false)<br/>
 
 
 <br>
 
 # 👀 Visitor Counter
 
-![Visitor Count](https://profile-counter.glitch.me/rahulmaurya-exe/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/TarunSingh2002/count.svg)
 
 
 <br>
